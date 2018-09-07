@@ -10,3 +10,16 @@ import Foundation
 
 print("Hello, World!")
 
+var str = "hello swiftv"
+
+str = str + "wawa"
+
+print(str)
+
+var i = 100
+
+str = "\(1000) , str , 100"
+
+print(str)
+
+
